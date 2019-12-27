@@ -1,4 +1,3 @@
-#Formacao Inteligencia Artificial e Machine Learning. Fernando Amaral
 #cria data frame com os itens da mochila 
 mochila <- data.frame(item = c("canivete", "feijao", "batatas", "lanterna", 
     "saco de dormir", "corda", "bussula"), pontos = c(10, 20, 15, 2, 30, 
