@@ -1,4 +1,4 @@
-#Formacao Inteligencia Artificial e Machine Learning. Fernando Amaral
+
 #instalar pacote
 install.packages("GA")
 #carregar pacote
